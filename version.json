@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "changelog": "✅ EPG integrado\n✅ Canales nacionales PY\n✅ Diseño mejorado\n🐛 Bug fixes",
-  "apkUrl": "https://github.com/KANEKIMOD/kaneki-tv-releases/releases/download/v1.1/KANEKI_TV.apk"
+  "versionCode": 4,
+  "versionName": "1.2",
+  "changelog": "\u2705 EPG integrado\n\u2705 Canales nacionales PY\n\ud83d\udc1b Bug fixes",
+  "apkUrl": "https://github.com/KANEKIMOD/kaneki-tv-releases/raw/main/KANEKI_TV.apk"
 }
